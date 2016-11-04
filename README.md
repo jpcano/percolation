@@ -1,2 +1,2 @@
-# percolation
-Solveing the percolation problem using the union-find algorithm
+# Percolation
+Solving the percolation problem using the union-find algorithm.
